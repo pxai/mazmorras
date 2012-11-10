@@ -3,13 +3,14 @@
  */
 
 /**
- * @author luser
- *
+ * @author pello altadill
+ * @version 1.0
  */
 public class Arma  extends ObjetoMazmorra {
 	int puntosAtaque;
 	int puntosDefensa;
 	int peso;
+	int aleacion;
 	
 	/**
 	 * @param nombre
